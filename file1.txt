@@ -1,1 +1,1 @@
-This file is used for practicing git in file1.txt. This is modified to check to commit command.
+This file is used for practicing git in file1.txt. Added changes
